@@ -1,0 +1,94 @@
+{
+  "basics": {
+    "name": "Kartik Patel",
+    "title": "MERN Stack Developer - Frontend Developer - Backend Developer - Undergraduate - @Institute of Advanced Research - BAPS Volunteer",
+    "summary": "Aspiring Web Developer skilled in MERN Stack (React.js, Node.js, MongoDB, Express.js) with hands-on experience building responsive, user-focused applications. Passionate about clean code, creative UI, and continuous learning. Recently completed an internship at ZIDIO Development, contributing to a superhero-themed e-commerce platform.",
+    "location": "Gandhinagar, Gujarat, India",
+    "address": "Plot No:- 1650/1 , Sector 5/C, Gandhinagar",
+    "email": "kartikpatel0406@gmail.com",
+    "phone": "+91 8401884854",
+    "links": [
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/in/kartik-patel-2b6374268"
+      },
+      {
+        "name": "Github",
+        "url": "https://github.com/Kartik6600?tab=repositories"
+      }
+    ]
+  },
+  "experience": [
+    {
+      "company": "Zidio Development",
+      "role": "Web Developer Internship",
+      "dates": "March 2025 - June 2025 (4 months)",
+      "location": "Bengaluru, Karnataka, India",
+      "bullets": [
+        "Engineered scalable e-commerce features using React.js, Node.js, Express, and MongoDB.",
+        "Implemented JWT-based authentication to secure user login and registration workflows.",
+        "Developed interactive product listings with filters by category and subcategory.",
+        "Integrated Stripe and QR-based payment systems, improving transaction efficiency by 40%.",
+        "Developed admin dashboards to manage products, orders, users, coupons enhancing business control.",
+        "Collaborated in an Agile team using Git for version control"
+      ]
+    }
+  ],
+  "achievements": [
+    {
+      "title": "Transaction Efficiency",
+      "metric": "40%",
+      "context": "Integrated Stripe and QR-based payment systems, improving transaction efficiency by 40%."
+    }
+  ],
+  "projects": [
+    {
+      "name": "Superhero E-Commerce Platform",
+      "description": "A full-stack e-commerce platform with dynamic filtering, buy a products, secure JWT authentication, and comprehensive admin dashboard.",
+      "technologies": ["MERN Stack", "Stripe", "Cloudinary"],
+      "link": "https://forever-ebon.vercel.app/"
+    },
+    {
+      "name": "Car Rental System",
+      "description": "A web application for renting cars to going any place.",
+      "technologies": ["MERN Stack", "ImageKit"]
+    },
+    {
+      "name": "Chatrise - Social Media Web Application",
+      "description": "A Chatrise web application created to connect with friends to create post, chat with friends.",
+      "technologies": ["MERN Stack", "ImageKit", "Clerk", "Inngest"]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Top Skills",
+      "items": ["Cloudinary", "vercel", "Imagekit"]
+    },
+    {
+      "category": "MERN Stack",
+      "items": ["React.js", "Node.js", "MongoDB", "Express.js"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Institute of Advanced Research, Gandhinagar",
+      "degree": "Bachelor of Technology, Computer Engineering",
+      "dates": "2022 - 2025"
+    },
+    {
+      "institution": "Government Polytechnic Gandhinagar",
+      "degree": "Associate of Computer Engineering",
+      "dates": "2019 - 2022"
+    },
+    {
+      "institution": "Sheth C M High School",
+      "degree": "Class X (SSC - GHSEB)",
+      "dates": "2018 - 2019"
+    }
+  ],
+  "certifications": [],
+  "awards": [],
+  "extra": [
+    "BAPS Volunteer"
+  ]
+}
