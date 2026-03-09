@@ -61,12 +61,12 @@
   ],
   "skills": [
     {
-      "category": "Top Skills",
-      "items": ["Cloudinary", "vercel", "Imagekit"]
+      "category": "Technologies",
+      "items": ["HTML", "CSS", "Javascript", "Tailwind CSS", "React.js", "Node.js", "MongoDB", "Express.js"]
     },
     {
-      "category": "MERN Stack",
-      "items": ["React.js", "Node.js", "MongoDB", "Express.js"]
+      "category": "Tools",
+      "items": ["Cloudinary", "Vercel", "ImageKit", "GitHub", "Git", "Clerk"]
     }
   ],
   "education": [

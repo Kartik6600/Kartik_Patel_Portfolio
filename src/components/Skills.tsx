@@ -17,7 +17,7 @@ export default function Skills() {
           transition={{ duration: 0.6 }}
         >
           <h2 className="text-4xl font-bold tracking-tight sm:text-5xl md:text-6xl bg-gradient-to-br from-zinc-100 to-zinc-500 bg-clip-text text-transparent">
-            Skills & Expertise
+            Technical Skills & Expertise
           </h2>
           <p className="max-w-2xl text-lg text-zinc-400">
             Technologies, tools, and methodologies I use to build robust applications.
