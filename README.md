@@ -10,7 +10,8 @@ View your app: https://kartik-patel-portfolio-pi.vercel.app/
    Download the project repository as a zip file or clone it using Git.
 
 2. **Run the code**  
-   - Open the `kartik-patel-portfolio` folder in the terminal.  
+   - Open the `kartik-patel-portfolio` folder in the VS code.
+   - Open the terminal  
      ```bash
      cd path/kartik-patel-portfolio
      ```
